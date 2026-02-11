@@ -1,5 +1,26 @@
 <h1 align="center">Hi 👋, I'm KAZIM HAIDER SYED</h1>
-<h3 align="center">📊 Data Analyst | Business Intelligence Enthusiast 📍 Lahore, Pakistan I am a Data Analyst with 1+ year of hands-on internship experience in transforming complex datasets into actionable business insights. I specialize in SQL, Power BI, Python, and Excel, with strong expertise in Data Visualization, Machine Learning, and Data Mining. I have experience building interactive dashboards, analyzing KPIs, performing data cleaning & transformation, and developing analytical reports to support data-driven decision-making. 🏆 3rd Position – Data Analytics Hackathon (PUCon – PUCIT)</h3>
+
+📊 Data Analyst & Business Intelligence with 1+ year of hands-on experience transforming complex datasets into actionable business insights.
+
+I specialize in analyzing, cleaning, and modeling data to support data-driven decision-making. My expertise includes SQL, Power BI (DAX), Python (Pandas, NumPy), and Microsoft Excel, along with strong foundations in Machine Learning and Data Mining.
+
+I have experience in:
+
+- 📈 KPI Analysis & Performance Analytics  
+- 📊 Dashboard Development & Data Visualization  
+- 🧠 Statistical Analysis & Predictive Modeling  
+- 🔄 Data Cleaning & Transformation  
+- 🏗️ Data Modeling & Business Intelligence Reporting  
+
+I am a strong analytical thinker committed to delivering impactful, data-driven solutions to solve real-world business challenges.
+
+---
+
+## 🛠️ Technical Skills
+
+**Power BI | SQL | Python | Microsoft Excel | Machine Learning | Data Mining | Data Visualization | KPI Analysis | Dashboard Development | Data Cleaning | Data Transformation | Statistical Analysis | Predictive Modeling | Data Modeling**
+
+🏆 3rd Position – Data Analytics Hackathon (PUCon – PUCIT)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kazimhaider12&label=Profile%20views&color=0e75b6&style=flat" alt="kazimhaider12" /> </p>
 
@@ -33,9 +54,6 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kazimhaider12&" alt="kazimhaider12" /></p>
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ImranKhanYouTuber) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alamimran613) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ikyoutuber) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@technosnag) 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
