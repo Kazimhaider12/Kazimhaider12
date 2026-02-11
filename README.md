@@ -2,7 +2,7 @@
 
 📊 Data Analyst & Business Intelligence with 1+ year of hands-on experience transforming complex datasets into actionable business insights.
 
-I specialize in analyzing, cleaning, and modeling data to support data-driven decision-making. My expertise includes SQL, Power BI (DAX), Python (Pandas, NumPy), and Microsoft Excel, along with strong foundations in Machine Learning and Data Mining.
+I specialize in analyzing, cleaning, and modeling data to support data-driven decision-making. My expertise includes SQL, Power BI (DAX), Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), and Microsoft Excel, along with strong foundations in Machine Learning and Data Mining.
 
 I have experience in:
 
