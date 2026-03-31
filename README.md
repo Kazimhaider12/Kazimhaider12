@@ -26,7 +26,7 @@ I am a strong analytical thinker committed to delivering impactful, data-driven 
 
 - 🌱 I’m currently learning **Data Engineering**
 
-- 👨‍💻 All of my projects are available at [https://kazim-haider-syed-da-efwi.bolt.host/](https://kazim-haider-syed-da-efwi.bolt.host/)
+- 👨‍💻 All of my projects are available at https://kazimhaiderportfolio.lovable.app/
 
 - 📫 How to reach me **kazimhaidersyed14@gmail.com**
 
