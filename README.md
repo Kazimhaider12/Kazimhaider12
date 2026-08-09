@@ -1,32 +1,42 @@
-<h1 align="center">Hi 👋, I'm KAZIM HAIDER SYED</h1>
+<h1 align="center">Hi 👋, I'm KAZIM HAIDER SYED</h1> <h3 align="center">Data Analyst | Data Engineer | Machine Learning | AI Automation</h3>
 
-📊 Data Analyst & Business Intelligence with 1+ year of hands-on experience transforming complex datasets into actionable business insights.
+📊 Data & AI professional with 3+ years of hands-on experience turning raw data into dashboards, pipelines, and automated systems that businesses actually rely on.
 
-I specialize in analyzing, cleaning, and modeling data to support data-driven decision-making. My expertise includes SQL, Power BI (DAX), Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), and Microsoft Excel, along with strong foundations in Machine Learning and Data Mining.
+I work across the full data lifecycle — from building ETL/ELT pipelines and data warehouses, to designing BI dashboards, to training ML models, to automating repetitive workflows with AI agents. My focus is always the same: make data usable, reliable, and fast to act on.
 
 I have experience in:
 
-- 📈 KPI Analysis & Performance Analytics  
-- 📊 Dashboard Development & Data Visualization  
-- 🧠 Statistical Analysis & Predictive Modeling  
-- 🔄 Data Cleaning & Transformation  
-- 🏗️ Data Modeling & Business Intelligence Reporting  
+📈 KPI Analysis & Performance Analytics
+📊 Dashboard Development & Data Visualization (Power BI, Looker Studio, Metabase)
+🏗️ Data Engineering — ETL/ELT Pipelines, Orchestration, Data Warehousing
+🧠 Machine Learning & Predictive Modeling
+🤖 AI Automation — Workflow Automation, AI Agents, LLM Integrations
+🔄 Data Cleaning, Transformation & Modeling
+🛠️ Technical Skills
 
-I am a strong analytical thinker committed to delivering impactful, data-driven solutions to solve real-world business challenges.
+Analytics & BI: Power BI (DAX) · SQL · Looker Studio · Metabase · Microsoft Excel
 
----
+Data Engineering: Apache Airflow · Apache Kafka · dbt · Snowflake · PostgreSQL · MySQL · Docker
 
-## 🛠️ Technical Skills
+Machine Learning: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn) · Predictive Modeling · Feature Engineering
 
-**Power BI | SQL | Python | Microsoft Excel | Machine Learning | Data Mining | Data Visualization | KPI Analysis | Dashboard Development | Data Cleaning | Data Transformation | Statistical Analysis | Predictive Modeling | Data Modeling**
+AI Automation: n8n · Ollama · AI Agents · LLM Workflow Integrations
 
-🏆 3rd Position – Data Analytics Hackathon (PUCon – PUCIT)</h3>
+💼 Currently
+
+Building KPI dashboards and managing end-to-end data pipelines on real-time business datasets — while completing a BS in Data Science at the University of Management and Technology (UMT), graduating 2027.
+
+🏆 Achievements
+
+🏆 3rd Position – Data Analytics Hackathon (PUCon 2025 – PUCIT)
+
+📫 Let's Connect
+
+📍 Lahore, Pakistan 💼 Open to freelance/contract work in Data Analytics, Data Engineering, ML, and AI Automation
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kazimhaider12&label=Profile%20views&color=0e75b6&style=flat" alt="kazimhaider12" /> </p>
 
-- 🌱 I’m currently learning **Data Engineering**
-
-- 👨‍💻 All of my projects are available at https://portfoliobykazimhaidersyed.lovable.app/
+- 👨‍💻 All of my projects are available at https://portfoliokazimhaidersyed.lovable.app/
 
 - 📫 How to reach me **kazimhaidersyed14@gmail.com**
 
